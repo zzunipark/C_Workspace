@@ -1,5 +1,5 @@
 #include <stdio.h>
-#pragma warning(disable : 4996)
+#pragma warning(disable:4996)
 
 int main() {
     int brr[2][3];
